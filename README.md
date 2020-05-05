@@ -29,4 +29,4 @@ A huge thank you to the wonderful <a href="https://uk.linkedin.com/in/danielle-g
 
 For further information, please visit https://hyperlearning.ai or contact the author of this project:
 
-* **Jillur Quddus**<br/>Lead Data Scientist and Principal Software Engineer<br/>contactus@hyperlearning.ai
+* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>contactus@hyperlearning.ai
