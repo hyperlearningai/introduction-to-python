@@ -1,0 +1,27 @@
+# Build Resources
+/.env/
+/target/
+**/.env
+
+# Compiled Resources
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.so
+
+# IDE Resources
+/.settings/
+/.idea/
+.classpath
+.project
+.pydevproject
+**/.idea/
+**/.settings/
+**/target/
+**/.classpath
+**/.project
+**/.pydevproject
+
+# Temporary Resources
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
