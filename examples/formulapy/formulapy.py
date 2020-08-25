@@ -234,7 +234,7 @@ def computers_overtaken():
 
             # Reset the computer player
             computer_players[n].pos_x = random.randrange(
-                0, SCREEN_SIZE[0] - 100)
+                0, SCREEN_SIZE[0] - COMPUTER_PLAYER_IMAGE_SIZE[0])
             computer_players[n].pos_y = random.randrange(-125, -25)
 
             # Incrementally increase the speed of the computer vertical movement
@@ -263,11 +263,11 @@ def collision_with_computer():
     for n in range(COMPUTER_PLAYER_COUNT):
 
         # Get the current (x, y) position of the current computer player
-        computer_pox_x = computer_players[n].pos_x
+        computer_pos_x = computer_players[n].pos_x
         computer_pos_y = computer_players[n].pos_y
 
-        if (human_player.pos_x + HUMAN_PLAYER_IMAGE_SIZE[0] > computer_pox_x) \
-                and (human_player.pos_x < computer_pox_x +
+        if (human_player.pos_x + HUMAN_PLAYER_IMAGE_SIZE[0] > computer_pos_x) \
+                and (human_player.pos_x < computer_pos_x +
                      COMPUTER_PLAYER_IMAGE_SIZE[0]) \
                 and (human_player.pos_y < computer_pos_y +
                      COMPUTER_PLAYER_IMAGE_SIZE[1]) \
