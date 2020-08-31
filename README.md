@@ -5,7 +5,7 @@ An introductory course to the Python 3 programming language, with a curriculum a
 
 ## Course Website
 
-https://hyperlearning.ai/knowledgebase/courses/introduction-python
+https://hyperlearning.ai/knowledgebase/courses/introduction-to-python
 
 ## Course Details
 
