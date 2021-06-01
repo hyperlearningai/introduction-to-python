@@ -1,11 +1,11 @@
 # Introduction to Python
 An introductory course to the Python 3 programming language, with a curriculum aligned to the Certified Associate in Python Programming (PCAP) examination syllabus.
 
-![Introduction to Python](https://hyperlearning.ai/user/assets/img/knowledgebase/courses/course-introduction-to-python-pixabay.png "Introduction to Python")
+![Introduction to Python](https://static.hyperlearning.ai/images/knowledgebase/courses/course-introduction-to-python-pixabay.png "Introduction to Python")
 
 ## Course Website
 
-https://hyperlearning.ai/knowledgebase/courses/introduction-to-python
+https://knowledgebase.hyperlearning.ai/courses/introduction-to-python
 
 ## Course Details
 
@@ -23,6 +23,6 @@ There are no prerequisites to taking this course.
 
 ## Further Information and Guidance
 
-For further information, please visit https://hyperlearning.ai or contact the author of this course:
+For further information, please visit https://knowledgebase.hyperlearning.ai or contact the author of this course:
 
 * **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>contactus@hyperlearning.ai
