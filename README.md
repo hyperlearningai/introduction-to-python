@@ -23,7 +23,7 @@ There are no prerequisites to taking this course.
 
 ## Further Information and Guidance
 
-For further information, please visit https://knowledgebase.hyperlearning.ai or contact the author of this course:
+For further information, please visit https://knowledgebase.hyperlearning.ai/courses/introduction-to-python or contact the author of this course:
 
-* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>training@hyperlearning.ai
+* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>contactus@hyperlearning.ai
 
