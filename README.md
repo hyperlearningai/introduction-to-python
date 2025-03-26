@@ -5,7 +5,7 @@ An introductory course to the Python 3 programming language, with a curriculum a
 
 ## Course Website
 
-https://knowledgebase.hyperlearning.ai/courses/introduction-to-python
+https://knowledgebase.hyperlearning.ai/courses/introduction-to-python/
 
 ## Course Details
 
@@ -23,7 +23,4 @@ There are no prerequisites to taking this course.
 
 ## Further Information and Guidance
 
-For further information, please visit https://knowledgebase.hyperlearning.ai/courses/introduction-to-python or contact the author of this course:
-
-* **Jillur Quddus**<br/>Chief Data Scientist and Principal Polyglot Software Engineer<br/>contactus@hyperlearning.ai
-
+For further information, please visit https://knowledgebase.hyperlearning.ai/courses/introduction-to-python/.
